@@ -1,0 +1,62 @@
+[
+    {
+        "id": "PY001",
+        "topic": "Python",
+        "question": "What is Python?",
+        "answer": "Python is a high-level, general-purpose programming language known for readable syntax.",
+        "keywords": [
+            "python",
+            "language",
+            "programming",
+            "syntax"
+        ]
+    },
+    {
+        "id": "PY002",
+        "topic": "Python lists",
+        "question": "What is a list in Python?",
+        "answer": "A Python list is an ordered, mutable collection that can contain items of different types.",
+        "keywords": [
+            "list",
+            "mutable",
+            "ordered",
+            "collection"
+        ]
+    },
+    {
+        "id": "PY003",
+        "topic": "Python functions",
+        "question": "What is a function in Python?",
+        "answer": "A function is a reusable block of code that can accept parameters and return a result.",
+        "keywords": [
+            "function",
+            "parameter",
+            "return",
+            "reusable"
+        ]
+    },
+    {
+        "id": "PY004",
+        "topic": "Python dictionaries",
+        "question": "What is a dictionary in Python?",
+        "answer": "A dictionary stores data as key-value pairs and is mutable.",
+        "keywords": [
+            "dictionary",
+            "key",
+            "value",
+            "mapping"
+        ]
+    },
+    {
+        "id": "PY005",
+        "topic": "Python exception handling",
+        "question": "What is exception handling in Python?",
+        "answer": "Exception handling allows a program to respond to runtime errors using constructs such as try and except.",
+        "keywords": [
+            "exception",
+            "error",
+            "try",
+            "except"
+        ]
+    }
+]
